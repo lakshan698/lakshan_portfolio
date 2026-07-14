@@ -6,16 +6,16 @@ import { GraduationCap, Code2, BrainCircuit, Rocket, ChevronRight } from "lucide
 export default function AboutSection() {
   const educationData = [
     {
-      year: "2022 - Present",
+      year: "2023 - Present",
       degree: "BSc (Hons) in Data Science",
       institution: "SLIIT",
-      description: "Specializing in Data Engineering, Machine Learning, and Big Data technologies. Actively engaged in university projects and research.",
+      description: "Focused on Data Science, Data Engineering, Big Data technologies and AI. Building practical academic and personal projects using Python, SQL, cloud platforms, and modern data tools.",
     },
     {
-      year: "2019 - 2021",
+      year: "2017 - 2019",
       degree: "G.C.E. Advanced Level",
-      institution: "Your College/School Name",
-      description: "Physical Science Stream with strong academic performance in Mathematics and Physics.",
+      institution: "G/Vidyaloka College",
+      description: "Completed Advanced Level studies in the Biological Science stream, developing a strong foundation in analytical thinking, problem solving, and scientific reasoning.",
     }
   ];
 
