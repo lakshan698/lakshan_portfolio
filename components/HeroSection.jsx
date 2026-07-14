@@ -60,7 +60,7 @@ export default function HeroSection() {
             <h2 className="text-xl md:text-2xl font-medium text-gray-300 mb-6 flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-2">
               <span>A <span className="font-bold text-white">Data Science Undergraduate</span></span>
               <span className="hidden sm:block text-gray-600">|</span>
-              <span className="text-gray-400 font-normal">based in Sri Lanka</span>
+              {/*<span className="text-gray-400 font-normal">based in Sri Lanka</span>*/}
             </h2>
 
             <p className="text-base md:text-lg text-gray-400 max-w-xl mx-auto lg:mx-0 mb-10 leading-relaxed">
